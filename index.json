@@ -1,0 +1,36 @@
+{
+  "platforms": [
+    {
+      "x": 0,
+      "y": -1,
+      "width": "100%",
+      "height": 20,
+      "color": "black",
+      "rotation": 0,
+      "id": "j493h"
+    },
+    {
+      "x": 0,
+      "y": -18,
+      "width": "20",
+      "height": "100%",
+      "color": "black",
+      "rotation": 0,
+      "id": "keurrm"
+    },
+    {
+      "x": 1420,
+      "y": -19,
+      "width": "20",
+      "height": "100%",
+      "color": "black",
+      "rotation": 0,
+      "id": "xs4b6"
+    }
+  ],
+  "backgroundType": "color",
+  "backgroundColor": "#87CEEB",
+  "backgroundImage": "",
+  "platformWidth": "window",
+  "updated": 1721238821393
+}
